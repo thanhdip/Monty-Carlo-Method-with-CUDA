@@ -16,7 +16,7 @@ You can find the implementation details in the benchmark.md file and the intial 
 ## Results
 The comparison was between a near flagship intel CPU and NVIDIA GPU and implementation and preformance increases in different CUDA implementation.
 
-![alt text](https://raw.githubusercontent.com/sfsu-698-spring-2019/final-project-woop/master/results.PNG?token=AFAPOBF7GBTLGM6B3DRTJQ2457GIY)
+![alt text](https://github.com/thanhdip/Monty-Carlo-Method-with-CUDA/blob/master/results.PNG)
 
 The gpu was indeed faster that the CPU and they were both as accurate reliably with 3.141. On average the GPU was 1.095 faster. However due note this is on only 100,000,000 points and both implementation of the Monte Carlo Method was trivial so a more optimized version of both would definitely result in a farther preformance gap.
 
